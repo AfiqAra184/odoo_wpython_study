@@ -1,0 +1,1 @@
+# odoo_wpython_study
